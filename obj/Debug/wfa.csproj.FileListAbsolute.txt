@@ -1,0 +1,10 @@
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\bin\Debug\wfa.exe.config
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\bin\Debug\wfa.exe
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\bin\Debug\wfa.pdb
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\obj\Debug\wfa.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\obj\Debug\wfa.Properties.Resources.resources
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\obj\Debug\wfa.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\obj\Debug\wfa.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\obj\Debug\wfa.exe
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\obj\Debug\wfa.pdb
+C:\Users\oguzh\Desktop\Windows Form APP\wfa\wfa\obj\Debug\wfa.Form1.resources
